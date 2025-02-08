@@ -4,7 +4,6 @@
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/davidnavarretea"><img height="30" src="https://raw.githubusercontent.com/davidnavarretea/davidnavarretea/main/linkedin.png"></a>
- <a href="https://www.buymeacoffee.com/davidnavarretea"><img height="30" src="https://raw.githubusercontent.com/davidnavarretea/davidnavarretea/main/coffee.png"></a>
  </p>
  
 <div align="center">
