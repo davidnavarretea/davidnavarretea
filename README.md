@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi, I'm <a href="https://davidnavarretea.com" target="_blank" rel="noopener noreferrer">David</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi, I'm <a href="https://davidnavarretea.com" target="_blank" rel="noopener noreferrer">David</a> <img style="pointer-events: none; text-decoration: none; color: inherit;" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 <p align='center'>
