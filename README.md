@@ -9,5 +9,5 @@
 </p>
 
 <div align="center">
-   <h3>💻 Software Engineer 💻</h3>
+   <h3><a href="https://davidnavarretea.com" target="_blank" rel="noopener noreferrer">💻</a> Software Engineer <a href="https://davidnavarretea.com" target="_blank" rel="noopener noreferrer">💻</a></h3>
 </div>
